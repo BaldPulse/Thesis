@@ -19,6 +19,7 @@
 \RequirePackage{afterpage}
 \RequirePackage{etoolbox}
 \RequirePackage{ragged2e}
+\RequirePackage{subcaption}
 
 % This command can be used in the preamble to increase the margins
 % uniformly. If uniformity is not desired, then \geometry can be used
